@@ -1,5 +1,5 @@
 # kube-openapi-gnostic-benchmark
-benchmarks for kube-openapi gnostic conversion
+benchmarks to demonstrate effectiveness of PRs for kube-openapi gnostic conversion to kube-open api https://github.com/kubernetes/kube-openapi/pull/279 and https://github.com/kubernetes/kube-openapi/pull/280
 
 ## OpenAPI V2
 
